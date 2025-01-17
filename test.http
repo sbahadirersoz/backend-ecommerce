@@ -1,0 +1,70 @@
+###
+POST localhost:8087/auth/login
+Content-Type: application/json
+
+
+{
+  "username": "admin1",
+  "password": "admin1"
+
+}
+
+###
+POST localhost:8222/api/v1/products/createAProduct
+Content-Type: application/json
+Authorization: Bearer "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyIiwiaWF0IjoxNzM1NjM5MDE0LCJleHAiOjE3MzU2NDI2MTR9.JLAjbi_l9j1Edgnra0_RBhJT8KJ6AVsWFKlixtNVuG4"
+
+{
+  "description": "desc1",
+  "name": "product12234",
+  "price": 55,
+  "quantity": 300,
+  "productCategory": "Kitchen"
+}
+###
+POST localhost:8081/api/v1/users/registeruser
+Content-Type: application/json
+
+{
+  "username": "admin1",
+  "password": "admin1",
+  "lastName": "admin",
+  "email": "admin",
+  "firstName": "admin"
+}
+###
+POST http://localhost:8083/api/v1/products/addtoCard
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhZG1pbjEiLCJpYXQiOjE3MzYwODc2ODgsImV4cCI6MTczNjA5MTI4OH0.K8IwySZ9v__M23cKERWiSMttZfZ2VFTYQ2l8lz34bFE
+
+{
+  "productid": "c026c664-b0b0-448a-99ff-1186a5b47594",
+  "amount": 5
+}
+
+###
+POST localhost:8085/api/v1/carts/addToCart
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhZG1pbjEiLCJpYXQiOjE3MzYwMjQ4MTIsImV4cCI6MTczNjAyODQxMn0.sF3Rn40qtKZDWTBhdkSC6-bOqaknQSmF2WCTiYgj648
+
+{
+  "Id": "c026c664-b0b0-448a-99ff-1186a5b47594",
+  "quantity": 4
+}
+
+###
+POST localhost:8222/api/v1/users/registeruser
+Content-Type: application/json
+Authorization: Bearer {{$auth.token("admin1","admin1")}}
+
+{
+  "username": "user",
+  "firstName": "fist",
+  "lastName": "las",
+  "password": "pass",
+  "email": "mail"
+}
+###
+GET localhost:8222/api/v1/users/getall/users
+Content-Type: application/json
+Authorization: Bearer {{$auth.token("admin1","admin1")}}

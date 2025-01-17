@@ -1,0 +1,66 @@
+version: '3.8'
+services:
+  userdb:
+    image: postgres
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: newpassword
+      POSTGRES_DB: userservice-db
+    ports:
+      - 5431:5432
+    volumes:
+      - userdb-data:/var/lib/postgresql/data
+
+  orderdb:
+    image: postgres
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: orderservice-db
+    ports:
+      - 5433:5432
+    volumes:
+      - orderdb-data:/var/lib/postgresql/data
+
+  productdb:
+    image: postgres
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: productservice-db
+    ports:
+      - 5434:5432
+    volumes:
+      - productdb-data:/var/lib/postgresql/data
+
+  inventorydb:
+    image: postgres
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: inventory-db
+    ports:
+      - 5435:5432
+    volumes:
+      - inventorydb-data:/var/lib/postgresql/data
+  cartdb:
+    image: postgres
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: cart-db
+    ports:
+      - 5436:5432
+    volumes:
+      - cartdb-data:/var/lib/postgresql/data
+volumes:
+  userdb-data:
+  orderdb-data:
+  productdb-data:
+  inventorydb-data:
+  cartdb-data:
+
+
+networks:
+  keycloak-network:
+      driver: bridge

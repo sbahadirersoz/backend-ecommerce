@@ -1,0 +1,21 @@
+eureka:
+  client:
+    service-url:
+      default-zone: http://localhost:8761/eureka/
+spring:
+  application:
+    name: cart-service
+  datasource:
+    url: jdbc:postgresql://localhost:5436/cart-db
+    username: postgres
+    password: password
+  jpa:
+    hibernate:
+     database: postgresql
+     ddl-auto: update
+     database-platform: org.hibernate.dialect.PostgreSQLDialect
+    show-sql: true
+server:
+  port: 8085
+secret: "fe05a9b83d71036662e3a9488b48dd2ac6645be3b47727f2a783e49bfd9c01f5"
+expire: 360000

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cart-service" />
+        <module name="auth-service" />
+        <module name="product-service" />
+        <module name="Order-service" />
+        <module name="ConfigurationService" />
+        <module name="user-service" />
+        <module name="discovery-service" />
+        <module name="gateway" />
+        <module name="Inventory-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config-server" target="17" />
+      <module name="Discovery" target="17" />
+      <module name="discovery" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ConfigurationService" options="-parameters" />
+      <module name="Discovery" options="-parameters" />
+      <module name="Inventory-service" options="-parameters" />
+      <module name="Order-service" options="-parameters" />
+      <module name="auth-service" options="-parameters" />
+      <module name="cart-service" options="-parameters" />
+      <module name="config-server" options="-parameters" />
+      <module name="discovery" options="-parameters" />
+      <module name="discovery-service" options="-parameters" />
+      <module name="gateway" options="-parameters" />
+      <module name="product-service" options="-parameters" />
+      <module name="user-service" options="-parameters" />
+    </option>
+  </component>
+</project>

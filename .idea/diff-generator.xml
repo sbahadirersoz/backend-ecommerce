@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DiffGenerationConfig">
+    <option name="sourceModelValue" value="cart-service:entityManagerFactory" />
+    <option name="targetDbValue" value="51075a0d-b844-41de-a860-0a57d97f9026" />
+  </component>
+</project>

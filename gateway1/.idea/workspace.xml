@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e8dc1d8a-ae2a-470f-b4fb-2a405b7b7450" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../python/optm/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/optm/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/optm/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python/optm/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/SpringEdu/SecurityTestWithoutVaadin/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/SpringEdu/SecurityTestWithoutVaadin/src/main/java/org/example/securitytestwithoutvaadin/SecurityTestWithoutVaadinApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/SpringEdu/SecurityTestWithoutVaadin/src/main/java/org/example/securitytestwithoutvaadin/model/DataUnit.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/SpringEdu/demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/SpringEdu/demo/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/SpringEdu/demo/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/SpringEdu/demo/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/SpringEdu/demo/src/main/java/com/example/demo/Controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/SpringEdu/demo/src/main/java/com/example/demo/Converters/UserConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/SpringEdu/demo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/SpringEdu/demo/src/main/java/com/example/demo/Dto/UpdateUserRequestDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/SpringEdu/demo/src/main/java/com/example/demo/Dto/UserRequestDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/SpringEdu/demo/src/main/java/com/example/demo/Dto/userFindByIdDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/SpringEdu/demo/src/main/java/com/example/demo/Models/Authorities.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/SpringEdu/demo/src/main/java/com/example/demo/Repository/AuthoritiesRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/SpringEdu/demo/src/main/java/com/example/demo/Repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/SpringEdu/demo/src/main/java/com/example/demo/Service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/SpringEdu/demo/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/okxDailyPnlTracerAPI/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/okxDailyPnlTracerAPI/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/okxDailyPnlTracerAPI/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/okxDailyPnlTracerAPI/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/okxDailyPnlTracerAPI/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/okxDailyPnlTracerAPI/src/main/java/org/example/okxdailypnltracerapi/Responses/PositionHistoryResponseJson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/okxDailyPnlTracerAPI/src/main/java/org/example/okxdailypnltracerapi/Responses/PositionHistoryResponseJsondata.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/okxDailyPnlTracerAPI/src/main/java/org/example/okxdailypnltracerapi/Responses/PositionHistoryResponseJsonmsg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/okxDailyPnlTracerAPI/src/main/java/org/example/okxdailypnltracerapi/Service/SignatureUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/okxDailyPnlTracerAPI/src/main/java/org/example/okxdailypnltracerapi/Test.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/okxDailyPnlTracerAPI/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/springSecurity/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/springSecurity/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/springSecurity/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/springSecurity/src/main/java/org/example/springsecurity/SpringSecurityApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/springSecurity/src/main/java/org/example/springsecurity/User/Repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/springSecurity/src/main/java/org/example/springsecurity/auth/AuthController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/springSecurity/src/main/java/org/example/springsecurity/config/JwtService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/springSecurity/src/main/java/org/example/springsecurity/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/springSecurity/src/test/java/org/example/springsecurity/SpringSecurityApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/untitled/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/Flow.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/Flow.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/FlowBootstrap.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/FlowClient.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/FlowClient.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/contextMenuConnector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/contextMenuTargetConnector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/copilot/copilot-features-plugin-4vWXAWD3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/copilot/copilot-feedback-plugin-CPJ1GQzr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/copilot/copilot-info-plugin-Bj6h_kQx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/copilot/copilot-init-step2-CODnIbyl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/copilot/copilot-log-plugin-CuRWLjtz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/copilot/copilot-shortcuts-plugin-B2B-6xU_.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/copilot/copilot.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/copilot/overlay-monkeypatch-fiomN89J.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/copilot/react-utils-D_MlSXfo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/copilot/state-ByXF_fUX.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/datepickerConnector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/dndConnector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/flow-component-directive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/flow-component-renderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/lit-renderer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/menubarConnector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/messageListConnector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/selectConnector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/theme-util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/tooltip.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/vaadin-dev-tools/License.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/vaadin-dev-tools/connection.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/vaadin-dev-tools/live-reload-connection.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/vaadin-grid-flow-selection-column.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/vaadin-time-picker/helpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/vaadin-time-picker/timepickerConnector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/jar-resources/virtualListConnector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/vaadin-featureflags.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/frontend/generated/vaadin.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/java/org/example/demovaadincrud/DemoVaadinCrudApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/java/org/example/demovaadincrud/crmBackend/Entity/AbstractEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/java/org/example/demovaadincrud/crmBackend/Entity/Company.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/java/org/example/demovaadincrud/crmBackend/Entity/Contact.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/java/org/example/demovaadincrud/crmBackend/Repository/CompanyRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/java/org/example/demovaadincrud/crmBackend/Repository/ContactRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/java/org/example/demovaadincrud/crmBackend/Service/ContactService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/vaadinSpringcrud/demoVaadin-crud/src/test/java/org/example/demovaadincrud/DemoVaadinCrudApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/weatherAPI/Weather/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/weatherAPI/Weather/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/weatherAPI/Weather/src/main/java/org/example/weather/WeatherApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BackEndSpring/weatherAPI/Weather/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../FinalProject/FinalProject2024/Backend/.idea/Backend.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../FinalProject/FinalProject2024/Backend/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../FinalProject/FinalProject2024/Backend/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../FinalProject/FinalProject2024/FinalProject2024/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../FrontendAngular/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../FrontendAngular/TrackerAppFrontEnd/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../FrontendAngular/TrackerAppFrontEnd/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../FrontendAngular/TrackerAppFrontEnd/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../FrontendAngular/TrackerAppFrontEnd/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../FrontendAngular/TrackerAppFrontEnd/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../FrontendAngular/TrackerAppFrontEnd/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../FrontendAngular/TrackerAppFrontEnd/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../FrontendAngular/TrackerAppFrontEnd/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../FrontendAngular/TrackerAppFrontEnd/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../FrontendAngular/TrackerAppFrontEnd/src/app/app.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../FrontendAngular/TrackerAppFrontEnd/src/app/app.routes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../FrontendAngular/TrackerAppFrontEnd/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../FrontendAngular/TrackerAppFrontEnd/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../FrontendAngular/TrackerAppFrontEnd/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../FrontendAngular/TrackerAppFrontEnd/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TrackerAppBackend/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/src/app/app.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/src/app/pages/home-page/home-page.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/src/app/pages/home-page/home-page.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/src/app/pages/home-page/home-page.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/src/app/pages/home-page/home-page.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/src/app/studies/FlexBox/flex-align0/flex-align0.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/src/app/studies/FlexBox/flex-align0/flex-align0.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/src/app/studies/FlexBox/flex-align0/flex-align0.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/src/app/studies/FlexBox/flex-align0/flex-align0.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/src/app/studies/FlexBox/sampleflexbox-example/sampleflexbox-example.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/src/app/studies/FlexBox/sampleflexbox-example/sampleflexbox-example.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/src/app/studies/FlexBox/sampleflexbox-example/sampleflexbox-example.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/src/app/studies/navbar/navbar/navbar.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/src/app/studies/navbar/navbar/navbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/src/app/studies/navbar/navbar/navbar.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/src/app/studies/navbar/navbar/navbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/src/app/studies/rootsample/images.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/src/app/studies/rootsample/images.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/src/app/studies/rootsample/rootsample/rootsample.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/src/app/studies/rootsample/rootsample/rootsample.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/src/app/studies/rootsample/rootsample/rootsample.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/src/app/studies/rootsample/rootsample/rootsample.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/src/app/studies/test-base/test-base.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/src/app/studies/test-base/test-base.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/src/app/studies/test-base/test-base.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/FrontEndTestPhase/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/To do Slide.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/YAFrontEnd/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/YAFrontEnd/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/YAFrontEnd/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/YAFrontEnd/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/YAFrontEnd/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/YAFrontEnd/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/YAFrontEnd/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/YAFrontEnd/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/YAFrontEnd/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/YAFrontEnd/src/app/loginPage/login-page/login-page.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/YAFrontEnd/src/app/loginPage/login-page/login-page.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/YAFrontEnd/src/app/loginPage/login-page/login-page.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/YAFrontEnd/src/app/navbar/navbar/navbar.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/YAFrontEnd/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/YAFrontEnd/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/YAFrontEnd/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../YaseminAyazPetrol FullStackWeb/YAFrontEnd/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../python/scientificProject/models/empty.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../python/scientificProject/models/empty.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "sbahadirersoz"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/sbahadirersoz/FinalProject2024.git",
+    "accountId": "20df30ca-52f3-4f95-8d85-1b033d672d3a"
+  }
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2rWWDAqATlIArix3sitYaDOItV7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Gateway1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gateway1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ecommerce.gateway1.Gateway1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8dc1d8a-ae2a-470f-b4fb-2a405b7b7450" name="Changes" comment="" />
+      <created>1736675189327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736675189327</updated>
+      <workItem from="1736675190741" duration="857000" />
+      <workItem from="1736719542718" duration="440000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

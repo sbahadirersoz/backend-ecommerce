@@ -1,0 +1,28 @@
+spring:
+  datasource:
+    username: postgres
+    password: newpassword
+    url: jdbc:postgresql://localhost:5431/userservice-db
+  application:
+    name: auth-service
+  jpa:
+    hibernate:
+      ddl-auto: update
+      database-platform: org.hibernate.dialect.PostgreSQLDialect
+      database: postgresql
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+server:
+  port: 8087
+logging:
+  level:
+    org:
+      springframework:
+        security: TRACE
+        web: TRACE
+
+jwt: "fe05a9b83d71036662e3a9488b48dd2ac6645be3b47727f2a783e49bfd9c01f5"
+expire: 3600000
+
